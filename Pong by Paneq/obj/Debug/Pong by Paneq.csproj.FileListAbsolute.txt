@@ -1,0 +1,35 @@
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\bin\Debug\Pong by Paneq.exe.config
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\bin\Debug\Pong by Paneq.exe
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\bin\Debug\Pong by Paneq.pdb
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.csprojAssemblyReference.cache
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\Pong_by_Paneq.Form1.resources
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\Pong_by_Paneq.Properties.Resources.resources
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.csproj.GenerateResource.cache
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.csproj.CoreCompileInputs.cache
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.exe
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.pdb
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\bin\Debug\Interop.WMPLib.dll
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\Interop.WMPLib.dll
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Panczo\source\repos\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.csproj.ResolveComReference.cache
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\bin\Debug\Pong by Paneq.exe.config
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\bin\Debug\Pong by Paneq.exe
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\bin\Debug\Pong by Paneq.pdb
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\bin\Debug\Interop.WMPLib.dll
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.csprojAssemblyReference.cache
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Interop.WMPLib.dll
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.csproj.ResolveComReference.cache
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong_by_Paneq.Form1.resources
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong_by_Paneq.Properties.Resources.resources
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.csproj.GenerateResource.cache
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.csproj.CoreCompileInputs.cache
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.exe
+C:\Users\Panczo\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.pdb
+C:\Users\ja\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Interop.WMPLib.dll
+C:\Users\ja\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ja\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.csproj.ResolveComReference.cache
+C:\Users\ja\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.exe
+C:\Users\ja\Desktop\test\Pong by Paneq\Pong by Paneq\obj\Debug\Pong by Paneq.pdb
